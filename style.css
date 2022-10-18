@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body
+{ font-family: AmaticSc;
+
+    text-align: center;
+}
+.top_cont
+{ width: auto; height: auto;
+
+    background-color: #fecb00;
+    animation-name: example;
+  animation-duration: 4s;
+  animation-delay: 2;
+  animation-iteration-count: infinite;
+}
+h1
+{
+    font-family: 'Amatic SC', cursive;
+}
+p
+{
+    font-family: 'Silkscreen', cursive;
+}
+.header
+{ font-size: 500%;
+
+    width: 500px;  margin: 0 auto;
+}
+.c2
+{
+    position: absolute;  top: 150px;  left: 300px;  width: 150px; height: 100px;
+}
+.c1
+{ position: relative;  left: 350px; width: 150px;
+    height: 100px;
+}
+.ar
+{ width: 150px;
+    height: 150px;
+}
+.middle
+{ position: absolute;  left: 9px; display: inline-block;  width: 500px;  height: 200px;margin:10px;
+
+    background-color:#FFB6C1;
+}
+.bottom
+{ display: inline-block;  width: 500px;  height: 200px;  margin:10px;
+
+    background-color: #FFB6C1;
+
+}
+.bottom1
+{ display: inline-block;  width: 500px;  height: 200px;  margin:10px;
+
+position: absolute;  right: 9px;
+    background-color: #FFB6C1;
+    position: absolute;
+
+    position: absolute;
+}
+.len{
+  height: 100px;
+  width: 150px;
+}
+.len:hover{
+  height: 150px;
+  width: 200px;
+}
+.projects{
+
+  height: 100px;
+  width: 150px;
+}
+.projects:hover{
+
+  height: 150px;
+  width: 200px;
+}
+.mail{
+  height: 150px;
+  width: 200px;
+}
+.bottom3
+{ position: absolute;  left: 9px;
+ display: inline-block;  width: 500px;  height: 200px;margin:10px;
+}
+.insta
+{
+  height: 150px;
+  width: 200px;
+}
+.what
+{
+  height: 150px;
+  width: 200px;
+}
+.b4
+{
+  display: inline-block;
+
+}
+.b5
+{
+  display: inline-block;
+  position: absolute;right: 80px;
+}
+
+@keyframes example {
+  from {background-color: #fecb00;}
+  to {background-color: powderblue;}
+}
