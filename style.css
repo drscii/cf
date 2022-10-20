@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body
+{ font-family: AmaticSc;
+
+    text-align: center;
+
+    animation-name: example;
+  animation-duration: 4s;
+  animation-delay: 2;
+  animation-iteration-count: infinite;
+}
+.top_cont
+{ width: auto; height: auto;
+
+    background-color:;
+    animation-name: example;
+  animation-duration: 4s;
+  animation-delay: 2;
+  animation-iteration-count: infinite;
+}
+h1
+{
+    font-family: 'Amatic SC', cursive;color:green;
+
+}
+p
+{
+    font-family: 'Silkscreen', cursive;color:blue;font-style: 32px;font-weight: normal;
+}
+.header
+{ font-size: 500%;
+
+    width: 500px;  margin: 0 auto;
+}
+.c2
+{
+    position: relative;  right:350px;bottom: 150px; width: 150px; height: 100px;
+}
+.c1
+{ position: relative;  left: 350px; width: 150px;
+    height: 100px;
+}
+.ar
+{ width: 150px;
+    height: 150px;
+}
+.middle
+{
+
+    background-color:#FFB6C1;
+}
+.bottom
+{
+
+    background-color: #FFB6C1;
+
+}
+.bottom1
+{
+
+    background-color: #FFB6C1;
+  }
+.len{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.len:hover{
+  height: 55px;
+  width: 55px;
+}
+.projects{
+
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.projects:hover{
+
+  height: 55px;
+  width: 55px;
+}
+.mail{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.bottom3
+{   width: 500px;  height: 200px
+}
+.insta
+{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.what
+{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.insta:hover
+{
+  height: 55px;
+  width: 55px;
+
+}
+.what:hover
+{
+  height: 55px;
+  width: 55px;
+
+}
+.mail:hover
+{
+  height: 55px;
+  width: 55px;
+}
+.b4
+{
+  display: inline-block;
+
+}
+.b5
+{
+  display: inline-block;
+  position: absolute;right: 80px;
+}
+.bottom2
+{
+
+background-color:#FFB6C1;
+}
+
+/*@keyframes example {
+  from {background-color: #fecb00;}
+  to {background-color: powderblue;}
+}*/
+.col-sm-6
+{
+  margin-top: 10px;
+  font-size: 20px;
+}
